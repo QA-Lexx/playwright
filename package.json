@@ -1,0 +1,21 @@
+{
+  "name": "jsaqa_3_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.12.3",
+    "playwright": "^1.35.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1"
+  }
+}
